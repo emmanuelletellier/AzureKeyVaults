@@ -1,4 +1,4 @@
-# AzureKeyVaults
+# Azure Key Vaults Secrets
 PowerShell 7 code snippets for Azure Key Vaults secrets
 
 Set the Execution Policy:
